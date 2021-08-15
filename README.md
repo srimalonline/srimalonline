@@ -26,7 +26,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=srimal-online&count_private=true&show_icons=true&theme=radical" />
-</a>
+</a> 
 
 Hand-washing and Hand Sanitizer Use at Home, at Play, and Out and About 
 # github 
