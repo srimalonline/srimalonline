@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Srimal Fernando</h1>
-<h3 align="center">A Computer Science Student From Sri-Lanka</h3>
+<h3 align="center">A Computer Science Student From The Milky Way</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srimal-online&label=Profile%20views&color=0e75b6&style=flat" alt="srimal-online" /> </p>
 
