@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studing @ [NSBM](https://github.com/nsbm)
 
-- 📫 How to reach me **srimalfernando@ieee.com** 
+- 📫 How to reach me **srimal.cyber@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
