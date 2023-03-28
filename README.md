@@ -1,6 +1,14 @@
 
 <h1 align="center">Hi 🖖, I'm Srimal Fernando</h1>
-<h3 align="center">A Computer Science Student From The Milky Way</h3>
+<!-- <h3 align="center">A Computer Science Student From The Milky Way</h3> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Computer+Science+Student+From+The+Milky+Way.&hearts;++;Self-taught+Full-Stack+Developer;STEAM+Enthusiast;Content+Creator;Vlogger;Podcast+Host;IEEEian;AIESECer;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+<br>
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m currently studing @ [NSBM](https://github.com/nsbm)
 
