@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 - 🔭 I’m currently studing @ [NSBM](https://github.com/nsbm)
 - 📫 How to reach me **srimal.cyber@gmail.com** 
-> **"Sometimes you gotta run before you can walk.."**
+> My motto - **"Sometimes you gotta run before you can walk.."**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
