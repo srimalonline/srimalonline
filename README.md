@@ -15,7 +15,7 @@
 - 📫 How to reach me **srimal.cyber@gmail.com** 
 > My motto - **"Sometimes you gotta run before you can walk.."**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 Reach me via : <br>
 
