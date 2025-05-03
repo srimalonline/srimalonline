@@ -11,7 +11,8 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
-- 🔭 I’m currently studing @ [NSBM](https://github.com/nsbm)
+- 🔭 BSc(Hons) First Class in Computer Science @ [NSBM](https://github.com/nsbm)
+- 📙 MSc in Data Science and AI @ [University of Sri Jayewardenepura](https://www.sjp.ac.lk/)
 - 📫 How to reach me **srimal.cyber@gmail.com** 
 <!-- > My motto - **"Sometimes you gotta run before you can walk.."** -->
 
