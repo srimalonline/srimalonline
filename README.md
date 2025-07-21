@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://srimal.me" target="_blank">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g5dnV3Zm5pMThpaDhiMDZjNzk5aGNpdjZhbHVuMnRjb25xMGo5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn8zNgVmit475RK/giphy.gif" width="300"/>
   </a>
   <h1 align="center">Hi 🖖, I'm Srimal Fernando</h1>
   <p align="center">
@@ -55,3 +55,8 @@ I'm a passionate developer and researcher based in Sri Jayawardenepura Kotte, wi
   <a href="https://www.instagram.com/srimal.online/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/srimal.me/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
+<div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZxdjVtanE3NHNmOTZzdXI2dG13YThweHFuZ3FyZXdnZnNjYnV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WJZdOtltegO76/giphy.gif" width="100%">
+</div>
+
+
