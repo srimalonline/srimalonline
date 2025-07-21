@@ -28,25 +28,6 @@ I'm a passionate developer and researcher based in Sri Jayawardenepura Kotte, wi
 </p>
 <br>
 
----
-
-### 🛠️ My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,react,nextjs,vue,angular,svelte,php,laravel,django,flask,fastapi,mongodb,mysql,postgres,docker,kubernetes,gcp,aws,tensorflow,pytorch,scikitlearn,git,idea,vscode,figma&perline=10" />
-  </a>
-</p>
-
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srimalonline&show_icons=true&locale=en&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srimalonline&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srimalonline&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ### 🌐 Let's Connect
 <p align="center">
   <a href="https://srimal.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"></a>
