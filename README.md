@@ -14,7 +14,7 @@
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me
 
-I'm a passionate developer and researcher based in Sri Jayawardenepura Kotte, with a strong foundation in Computer Science and a deep interest in the transformative power of AI and Data Science. My goal is to build solutions that are not only efficient and scalable but also make a meaningful impact.
+I'm a passionate developer and researcher based in Sri Lanka, with a strong foundation in Computer Science and a deep interest in the transformative power of AI and Data Science. My goal is to build solutions that are not only efficient and scalable but also make a meaningful impact.
 
 - 🎓 Graduated with **BSc (Hons) First Class in Computer Science** from [NSBM Green University](https://www.nsbm.ac.lk/).
 - 🧠 Currently pursuing an **MSc in Data Science and AI** at the [University of Sri Jayewardenepura](https://www.sjp.ac.lk/).
